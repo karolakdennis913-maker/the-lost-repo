@@ -39,22 +39,3 @@ Depiction: https://adrienrl1.github.io/cydia/depiction.html
 Icon: https://adrienrl1.github.io/cydia/PackageIcon.png
 Name: AppDrop
 
-Package: com.ryannair05.cylinder
-Version: 1.1.2
-Architecture: iphoneos-arm
-Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
-Installed-Size: 1305
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
-Filename: debs/com.ryannair05.cylinder_1.1.2_iphoneos-arm(1).deb
-Size: 228784
-MD5sum: 5304fd25dae83b51729ca139b77c6162
-SHA1: 1184122b8454949b88956b833855e46018456612
-SHA256: 1935669eb241fb8ce5cbade090a08b312752801d4048e2f91488f551d7fd2f25
-Section: Tweaks
-Description: Make your icons dance
-Tag: compatible_min::ios11.0
-Author: Ryan Nair <ryannairtweaks@gmail.com>
-Depiction: https://chariz.com/get/cylinder-reborn
-Icon: https://img.chariz.cloud/icon/cylinder-reborn/icon@3x.png
-Name: Cylinder Reborn
-
